@@ -1,0 +1,17 @@
+# 本仓库只发布原创教程，不存放配置、凭据或业务数据。
+.env
+.env.*
+*.pem
+*.key
+*.sql
+*.sqlite*
+*.db
+*.har
+*.log
+*token*
+*session*
+*cookie*
+backup/
+backups/
+node_modules/
+.DS_Store
